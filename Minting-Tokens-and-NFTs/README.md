@@ -35,7 +35,7 @@ For more information visit [Quicknode tutorial](https://www.quicknode.com/guides
 
 ## Author
 
-[Michael](https://github.com/m-azra3l)
+[Samaila Anthony Malima](https://github.com/samailamalima)
 
 ## License
 
